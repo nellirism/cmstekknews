@@ -1,4 +1,4 @@
-# cmstekknews Version 1.06262021
+# CMS Tekk News Version 1.06262021
 
 1. [ Description. ](#desc)
 2. [ Installation. ](#inst)
