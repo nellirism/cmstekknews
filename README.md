@@ -1,21 +1,32 @@
-# cmstekknews
+# cmstekknews Version 1.06262021
 
+1. [ Description. ](#desc)
+2. [ Installation. ](#inst)
+3. [ User Story. ](#story)
+4. [ User Acceptance Criteria. ](#uac)
+5. [ CMS Tekk News Demonstration. ](#demo)
+6. [ License. ](#lic)
+
+<a name="desc"></a>
 # Description
 
 The CMS Tekk News Blog application is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. This application is completely built from scratch and deployed to Heroku. This app followed the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for session authentication.
 
+<a name="inst"></a>
 # Installation
 
 The CMS Tekk News application folder structure followed the Model-View-Controller paradigm. It uses the express-handlebars package to use Handlebars.js for the Views, uses the MySQL2 and Sequelize packages to connect to a MySQL database for the Models, and creates an Express.js API the Controllers.
 
 The application also utilized the dotenv package to use environment variables, the bcrypt package to hash passwords, and the express-session and connect-session-sequelize packages to add authentication to the app. 
 
+<a name="story"></a>
 # User Story
 
 - AS A developer who writes about tech
 - I WANT a CMS-style blog site
 - SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
+<a name="uac"></a>
 # User Acceptance Criteria
 
 GIVEN a CMS-style blog site
