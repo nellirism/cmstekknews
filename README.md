@@ -82,6 +82,7 @@ THEN I am automatically signed out of the site
 <a name="demo"></a>
 # CMS Tekk News Demo
 
+https://user-images.githubusercontent.com/71202250/123558621-21d49b80-d74c-11eb-9d7d-966d98b00906.mp4
 
 <a name="lic"></a>
 # License
